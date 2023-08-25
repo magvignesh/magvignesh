@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @magvignesh
+- 👋 Hi, I’m Vignesh RJ
 - 👀 I’m interested in - Technology
 - 🌱 I’m currently working web developer and Digital marketing from <a href = "https://magtech.in/">Magtech Groups</a> R&D Team ..
 -  I’m looking for technology learning
